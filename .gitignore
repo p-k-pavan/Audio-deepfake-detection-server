@@ -1,7 +1,6 @@
 # Ignore specific directories
 /ASV/
 /bonafide/
-/CNN/
 /DATASET/
 /include/
 /LIB/
