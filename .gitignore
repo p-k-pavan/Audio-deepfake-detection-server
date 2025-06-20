@@ -1,0 +1,19 @@
+# Ignore specific directories
+/ASV/
+/bonafide/
+/CNN/
+/DATASET/
+/include/
+/LIB/
+/spoof/
+/ORIGINAL_DATASET/
+/Scripts/
+__pycache__/
+*.py[cod]
+
+# Ignore specific files
+bonafide_features.csv
+metadata.csv
+pyvenve.cfg
+spoof_features.csv
+trimmer.ipynb
